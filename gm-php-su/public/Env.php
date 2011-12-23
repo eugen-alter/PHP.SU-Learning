@@ -45,13 +45,15 @@ $rgEnv  = array(
         'toril' => array(
             433426    => 'EuGen',
             ),
-            'R-SYSTEM' => 'BaltazoR'
+            'R-SYSTEM' => 'BaltazoR',
+            'Q' => 'sKaa',
     ),
     'backend'   => array(
         'toril' => array(
             433426    => 'EuGen',
             ),
-            'R-SYSTEM' => 'BaltazoR'
+            'R-SYSTEM' => 'BaltazoR',
+            'Q' => 'sKaa',
 
     )
 );
