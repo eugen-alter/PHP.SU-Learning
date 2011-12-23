@@ -43,13 +43,16 @@ function getSection($rgConfig, $bIsBackend=false)
 $rgEnv  = array(
     'frontend'  => array(
         'toril' => array(
-            433426    => 'EuGen'
-        )
+            433426    => 'EuGen',
+            ),
+            'R-SYSTEM' => 'BaltazoR'
     ),
     'backend'   => array(
         'toril' => array(
-            433426    => 'EuGen'
-        )
+            433426    => 'EuGen',
+            ),
+            'R-SYSTEM' => 'BaltazoR'
+
     )
 );
 
