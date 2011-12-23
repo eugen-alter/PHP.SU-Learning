@@ -1,3 +1,3 @@
 <?php
 // Define application environment
-define('APPLICATION_ENV', 'EuGen');
+define('APPLICATION_ENVIRONMENT', 'panoptik');
