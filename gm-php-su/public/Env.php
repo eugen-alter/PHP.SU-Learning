@@ -6,7 +6,7 @@ function getSection($rgConfig, $bIsBackend=false)
     {
         return null;
     }
-    $rgConfig   = $rgConfig[$sPart];    
+    $rgConfig   = $rgConfig[$sPart];
     if(!array_key_exists(php_uname("n"), $rgConfig))
     {
         return null;
@@ -48,6 +48,7 @@ $rgEnv  = array(
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
             'ubuntu-panoptik' => 'Panoptik',
+            'UPOP' => 'admin',
     ),
     'backend'   => array(
         'toril' => array(
@@ -56,7 +57,7 @@ $rgEnv  = array(
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
             'ubuntu-panoptik' => 'Panoptik',
-
+            'UPOP' => 'admin',
     )
 );
 
