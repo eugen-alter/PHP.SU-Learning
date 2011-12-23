@@ -47,7 +47,9 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-            'ubuntu-panoptik' => 'Panoptik',
+        'ubuntu-panoptik' => array(
+			16911226 =>	'Panoptik',
+			),
     ),
     'backend'   => array(
         'toril' => array(
@@ -55,7 +57,9 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-            'ubuntu-panoptik' => 'Panoptik',
+        'ubuntu-panoptik' => array(
+			16911226 =>	'Panoptik',
+			),
 
     )
 );
