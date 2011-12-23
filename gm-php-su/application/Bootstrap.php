@@ -18,7 +18,7 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         $frontController->addModuleDirectory( APPLICATION_PATH."/modules");
         
         // APPLICATION ENVIRONMENT - Set the current environment
-        $frontController->setParam('env', APPLICATION_ENVIRONMENT);
+        $frontController->setParam('env', APPLICATION_ENV);
 
 
         // CONFIGURATION - Setup the configuration object
