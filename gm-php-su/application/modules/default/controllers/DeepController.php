@@ -13,6 +13,6 @@ class DeepController extends GM_Controller_Base
 
     function testAction()
     {
-
+	$this->view->message='Test message';
     }
 }
