@@ -40,31 +40,33 @@ function getSection($rgConfig, $bIsBackend=false)
 // This is useful when, for example, we want to set up multiple instances on one local machine.
 // Note: it is possible to use `uname -n` key directly as a config entry (without file inode or full path keys inside).
 // However, if you're using string key for `uname -n` you can not use different config options for one machine.
-$rgEnv  = array(
-    'frontend'  => array(
-        'toril' => array(
-            433426    => 'EuGen',
-            ),
-            'R-SYSTEM' => 'BaltazoR',
-            'Q' => 'sKaa',
-            'UPOP' => 'DlTA',
-			'user-a30880e950' => 'etoYA',
-        	'ubuntu-panoptik' => array(
-				16911226 =>	'Panoptik',
-			),
-    ),
-    'backend'   => array(
-        'toril' => array(
-            433426    => 'EuGen',
-            ),
-            'R-SYSTEM' => 'BaltazoR',
-            'Q' => 'sKaa',
-            'UPOP' => 'DlTA',
-			'user-a30880e950' => 'etoYA',
-        	'ubuntu-panoptik' => array(
-				16911226 =>	'Panoptik',
-			),
-    )
+
+$rgEnv = array(
+
+	'frontend'  => array(
+
+		'toril' => array(433426 => 'EuGen',),
+		'R-SYSTEM' => 'BaltazoR',
+		'Q' => 'sKaa',
+		'UPOP' => 'DlTA',
+		'user-a30880e950' => 'etoYA',
+		'ubuntu-laptop' => 'DeepVarvar',
+        	'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
+
+		),
+
+	'backend' => array(
+
+		'toril' => array(433426 => 'EuGen',),
+		'R-SYSTEM' => 'BaltazoR',
+		'Q' => 'sKaa',
+		'UPOP' => 'DlTA',
+		'user-a30880e950' => 'etoYA',
+		'ubuntu-laptop' => 'DeepVarvar',
+		'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
+
+		)
+
 );
 
 $sSection=getSection($rgEnv, isset($bIsBackend));
