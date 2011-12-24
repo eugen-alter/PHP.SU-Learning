@@ -53,6 +53,9 @@ $rgEnv = array(
 		'user-a30880e950' => 'etoYA',
 		'ubuntu-laptop' => 'DeepVarvar',
         	'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
+		'SNIKERS987' => array(
+				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
+			),
 
 		),
 
@@ -66,6 +69,9 @@ $rgEnv = array(
 		'user-a30880e950' => 'etoYA',
 		'ubuntu-laptop' => 'DeepVarvar',
 		'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
+		'SNIKERS987' => array(
+				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
+			),
 
 		)
 
