@@ -47,18 +47,12 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-<<<<<<< HEAD
             'ubuntu-panoptik' => 'Panoptik',
-<<<<<<< HEAD
-            'UPOP' => 'admin',
-=======
+            'UPOP' => 'DlTA',
 			'user-a30880e950' => 'etoYA',
-=======
         'ubuntu-panoptik' => array(
 			16911226 =>	'Panoptik',
 			),
->>>>>>> d918307149188064689fe7bba875a99c306d589f
->>>>>>> PHP.SU-Learning/master
     ),
     'backend'   => array(
         'toril' => array(
@@ -66,19 +60,13 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-<<<<<<< HEAD
+
             'ubuntu-panoptik' => 'Panoptik',
-<<<<<<< HEAD
-            'UPOP' => 'admin',
-=======
+            'UPOP' => 'DlTA',
 			'user-a30880e950' => 'etoYA',
-=======
         'ubuntu-panoptik' => array(
 			16911226 =>	'Panoptik',
 			),
->>>>>>> d918307149188064689fe7bba875a99c306d589f
-
->>>>>>> PHP.SU-Learning/master
     )
 );
 
