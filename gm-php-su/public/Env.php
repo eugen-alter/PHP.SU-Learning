@@ -47,11 +47,10 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-            'ubuntu-panoptik' => 'Panoptik',
             'UPOP' => 'DlTA',
 			'user-a30880e950' => 'etoYA',
-        'ubuntu-panoptik' => array(
-			16911226 =>	'Panoptik',
+        	'ubuntu-panoptik' => array(
+				16911226 =>	'Panoptik',
 			),
     ),
     'backend'   => array(
@@ -60,12 +59,10 @@ $rgEnv  = array(
             ),
             'R-SYSTEM' => 'BaltazoR',
             'Q' => 'sKaa',
-
-            'ubuntu-panoptik' => 'Panoptik',
             'UPOP' => 'DlTA',
 			'user-a30880e950' => 'etoYA',
-        'ubuntu-panoptik' => array(
-			16911226 =>	'Panoptik',
+        	'ubuntu-panoptik' => array(
+				16911226 =>	'Panoptik',
 			),
     )
 );
