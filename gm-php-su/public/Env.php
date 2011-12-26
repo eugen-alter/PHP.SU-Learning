@@ -56,6 +56,7 @@ $rgEnv = array(
 		'SNIKERS987' => array(
 				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
 			),
+		'NOUT' => 'wick',
 
 		),
 
@@ -72,6 +73,7 @@ $rgEnv = array(
 		'SNIKERS987' => array(
 				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
 			),
+		'NOUT' => 'wick',
 
 		)
 
