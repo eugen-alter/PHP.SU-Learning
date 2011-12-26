@@ -44,42 +44,46 @@ function getSection($rgConfig, $bIsBackend=false)
 $rgEnv = array(
 
 	'frontend'  => array(
-
-		'toril' => array(433426 => 'EuGen',),
-		'R-SYSTEM' => 'BaltazoR',
-		'Q' => 'sKaa',
-		'UPOP' => 'DlTA',
-		'ALEKCHI' => 'Alek',
-		'user-a30880e950' => 'etoYA',
-		'ubuntu-laptop' => 'DeepVarvar',
-        	'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
-		'SNIKERS987' => array(
-				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
-			),
+		'toril' => array(
+                    433426      => 'EuGen'
+                ),
+		'R-SYSTEM'          => 'BaltazoR',
+		'Q'                 => 'sKaa',
+		'UPOP'              => 'DlTA',
+		'ALEKCHI'           => 'Alek',
+		'user-a30880e950'   => 'etoYA',
+		'ubuntu-laptop'     => 'DeepVarvar',
+        	'ubuntu-panoptik'   => array(
+                    16911226    => 'Panoptik'
+                ),
+		'SNIKERS987'        => array(
+                    'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987'
+                ),
 		'SNIKERS' => array(
-				'D:\\www\\gm-php-su\\public' => 'snikers987_book',
-			),
-
+                    'D:\\www\\gm-php-su\\public' => 'snikers987_book'
+                )
 		),
 
-	'backend' => array(
-
-		'toril' => array(433426 => 'EuGen',),
-		'R-SYSTEM' => 'BaltazoR',
-		'Q' => 'sKaa',
-		'UPOP' => 'DlTA',
-		'ALEKCHI' => 'Alek',
-		'user-a30880e950' => 'etoYA',
-		'ubuntu-laptop' => 'DeepVarvar',
-		'ubuntu-panoptik' => array(16911226 => 'Panoptik',),
-		'SNIKERS987' => array(
-				'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987',
-			),
+	'backend'  => array(
+		'toril' => array(
+                    433426      => 'EuGen'
+                ),
+		'R-SYSTEM'          => 'BaltazoR',
+		'Q'                 => 'sKaa',
+		'UPOP'              => 'DlTA',
+		'ALEKCHI'           => 'Alek',
+		'user-a30880e950'   => 'etoYA',
+		'ubuntu-laptop'     => 'DeepVarvar',
+        	'ubuntu-panoptik'   => array(
+                    16911226    => 'Panoptik'
+                ),
+		'SNIKERS987'        => array(
+                    'C:\\Documents and Settings\\Work\\phpsu_project\\gm-php-su\\public' => 'snikers987'
+                ),
 		'SNIKERS' => array(
-				'D:\\www\\gm-php-su\\public' => 'snikers987_book',
-			),
-
-		)
+                    'D:\\www\\gm-php-su\\public' => 'snikers987_book'
+                )
+		),
 
 
 );
