@@ -53,6 +53,7 @@ $rgEnv = array(
 		'ALEKCHI'           => 'Alek',
 		'user-a30880e950'   => 'etoYA',
 		'ubuntu-laptop'     => 'DeepVarvar',
+		'BIOMAN-PC'			=> 'BioMan',
         	'ubuntu-panoptik'   => array(
                     16911226    => 'Panoptik'
                 ),
@@ -77,6 +78,7 @@ $rgEnv = array(
 		'ALEKCHI'           => 'Alek',
 		'user-a30880e950'   => 'etoYA',
 		'ubuntu-laptop'     => 'DeepVarvar',
+		'BIOMAN-PC'			=> 'BioMan',
         	'ubuntu-panoptik'   => array(
                     16911226    => 'Panoptik'
                 ),
