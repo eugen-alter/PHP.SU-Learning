@@ -6,8 +6,10 @@ class GM_Controller_Base extends Zend_Controller_Action
 
     }
     
-    protected function log() {
-    	
+    public function postDispatch()
+    {
+        $this->getResponse()->setHeader('Content-Type', 'text/html; charset=UTF-8', true);
+        $this->getResponse()->setHeader('Pragma', 'no-cache', true);
     }
 }
 
