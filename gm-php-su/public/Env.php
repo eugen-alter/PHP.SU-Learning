@@ -65,7 +65,8 @@ $rgEnv = array(
                 ),
 		'NOUT' => array(
 				'Y:\\home\\php-su\\gm-php-su\\public' => 'wick'
-				)
+				),
+		'Pimpys' => array('C:\\Program Files\\xampp\\htdocs\\hello\\gm-php-su\\public' => 'Pimpys')
 		),
 
 	'backend'  => array(
@@ -90,7 +91,8 @@ $rgEnv = array(
                 ),
 		'NOUT' => array(
 				'Y:\\home\\php-su\\gm-php-su\\public' => 'wick'
-				)
+				),
+		'Pimpys' => array('C:\\Program Files\\xampp\\htdocs\\hello\\gm-php-su\\public' => 'Pimpys')
 		),
 
 );
