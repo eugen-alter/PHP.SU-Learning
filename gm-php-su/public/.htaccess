@@ -1,3 +1,4 @@
+php_value magic_quotes_gpc "Off"
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} -s [OR]
